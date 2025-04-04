@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Bappy 😀</h1>
-<h4 align="center">I'm a Data Scientist | Mentor | YouTuber @dswithbappy</h4>
+<h1 align="center">I'm Lokesh </h1>
+<h4 align="center">I'm a Data Scientist | Artist | Data Analyst </h4>
 
 
 
@@ -46,7 +46,7 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/boktiarahmed73/
+[linkedin]: [(https://www.linkedin.com/in/lokesh-mururganandam-752261274)]
 [twitter]: https://twitter.com/bappy913873
 [Instagram]: https://www.instagram.com/entbappy/
 [YouTube]: https://www.youtube.com/dswithbappy
