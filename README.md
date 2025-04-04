@@ -46,7 +46,7 @@
 
 <hr>
 
-[linkedin]: [(https://www.linkedin.com/in/lokesh-mururganandam-752261274)]
+[linkedin]: https://www.linkedin.com/in/lokesh-mururganandam-752261274
 [twitter]: https://twitter.com/bappy913873
 [Instagram]: https://www.instagram.com/entbappy/
 [YouTube]: https://www.youtube.com/dswithbappy
