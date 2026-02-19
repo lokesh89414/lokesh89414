@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Lokesh M</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Data Science Enthusiast | Cybersecurity Explorer  
+🚀 AI Engineer | Data Science | Cybersecurity Enthusiast  
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Data+Science+%7C+Cybersecurity;Quantum-Safe+Security+Researcher;Building+Intelligent+Systems+for+the+Future;Learning+Today+to+Defend+Tomorrow+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Data+Science+%7C+Cybersecurity;Secure+AI+%7C+Privacy-First+Systems;Quantum-Safe+Security+Researcher;Building+Resilient+and+Trustworthy+Intelligent+Systems;Learning+Today+to+Defend+Tomorrow+%F0%9F%94%90" />
 </div>
 
 ---
 
 ## 🧠 ABOUT ME
 
-🎓 Engineering Student passionate about **AI, Data Science & Cybersecurity**  
-🔍 Exploring **Quantum-Safe Security & Intelligent Systems**  
-⚡ Building real-world solutions using **ML, Data & Web Tech**  
-🌱 Currently leveling up in **Advanced AI + System Design**
+🎓 B.Tech AI & Data Science student passionate about building **secure and intelligent systems**  
+🔐 Focused on **Cybersecurity, Ethical AI, and Quantum-Safe Technologies**  
+⚡ Experienced in developing **AI models, dashboards, and real-world applications**  
+🌱 Currently exploring **Advanced AI, System Design & Secure Architectures**
 
-> 💡 *"Not waiting for the future — I'm engineering it."*
+> 💡 *"I don’t just build systems — I build systems that can be trusted."*
 
 ---
 
 ## 🛠️ TECH STACK
 
-### 🤖 AI / MACHINE LEARNING(classic&QUANTUM)
+### 🤖 AI / MACHINE LEARNING (Classical & Applied)
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
@@ -33,9 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
 </p>
 
-### ⚛️ QUANTUM & SECURITY
+### 🔐 CYBERSECURITY & ⚛️QUANTUM
 <p align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/512/1048/1048949.png](https://static.vecteezy.com/system/resources/previews/059/698/858/non_2x/illustration-of-people-use-databases-connected-to-chip-and-ai-data-networks-symbolized-by-protected-by-shields-for-security-and-data-protection-free-vector.jpg)" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="50" title="Cybersecurity"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="50" title="Quantum Computing"/>
 </p>
 
 ### 🌐 WEB DEVELOPMENT
@@ -65,18 +66,18 @@
 ## 📈 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokesh89414&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh89414&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🚀 FEATURED INTERESTS
 
-- 🔐 Cybersecurity & Ethical AI  
+- 🔐 Cybersecurity & Secure AI Systems  
 - ⚛️ Quantum Computing & Post-Quantum Cryptography  
 - 🤖 Intelligent Agents & Autonomous Systems  
-- 📊 Data Analytics & Visualization  
+- 📊 Data Analytics & Business Intelligence  
 
 ---
 
@@ -87,7 +88,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/lokesh-mururganandam-752261274">
+  <a href="https://www.linkedin.com/in/lokesh-mururganandam-752261274">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="50"/>
   </a>
 </p>
@@ -98,9 +99,9 @@
 
 <div align="center">
 
-✨ *Code. Learn. Build. Repeat.*  
-🔥 *Consistency beats talent when talent doesn't work hard.*
+✨ *Code. Learn. Build. Secure. Repeat.*  
+🔐 *Security is not an add-on — it's the foundation.*  
 
-⭐ Thanks for visiting — let's build something legendary.
+⭐ Thanks for visiting — let's build something impactful.
 
 </div>
