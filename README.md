@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Data+Science+%7C+Cybersecurity;Quantum-Safe+Security+Researcher;Building+Intelligent+Systems+for+the+Future;Always+Learning+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Data+Science+%7C+Cybersecurity;Quantum-Safe+Security+Researcher;Building+Intelligent+Systems+for+the+Future;Learning+Today+to+Defend+Tomorrow+%F0%9F%94%A5" />
 </div>
 
 ---
@@ -23,7 +23,7 @@
 
 ## 🛠️ TECH STACK
 
-### 🤖 AI / MACHINE LEARNING
+### 🤖 AI / MACHINE LEARNING(classic&QUANTUM)
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
@@ -35,7 +35,7 @@
 
 ### ⚛️ QUANTUM & SECURITY
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="50"/>
+  <img src="[https://cdn-icons-png.flaticon.com/512/1048/1048949.png](https://static.vecteezy.com/system/resources/previews/059/698/858/non_2x/illustration-of-people-use-databases-connected-to-chip-and-ai-data-networks-symbolized-by-protected-by-shields-for-security-and-data-protection-free-vector.jpg)" width="50"/>
 </p>
 
 ### 🌐 WEB DEVELOPMENT
