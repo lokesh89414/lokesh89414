@@ -1,70 +1,106 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Lokesh </h1>
-<h4 align="center">I'm a Data Scientist | Artist | Data Analyst </h4>
+<h1 align="center">Hi 👋, I'm Lokesh M</h1>
 
+<h3 align="center">
+🚀 AI Engineer | Data Science Enthusiast | Cybersecurity Explorer  
+</h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Data+Science+%7C+Cybersecurity;Quantum-Safe+Security+Researcher;Building+Intelligent+Systems+for+the+Future;Always+Learning+%F0%9F%94%A5" />
+</div>
 
-### I have technical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Computer vision 
-* Natural Language Processing
-* MLOps
-* Generative AI 
-* Robotics
+---
 
+## 🧠 ABOUT ME
 
+🎓 Engineering Student passionate about **AI, Data Science & Cybersecurity**  
+🔍 Exploring **Quantum-Safe Security & Intelligent Systems**  
+⚡ Building real-world solutions using **ML, Data & Web Tech**  
+🌱 Currently leveling up in **Advanced AI + System Design**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+> 💡 *"Not waiting for the future — I'm engineering it."*
 
-### My Hobbies and interests:
-* Traveling
-* Drawing
-* Coding
-* Anime
+---
 
+## 🛠️ TECH STACK
 
-#### You can also find me on: 
+### 🤖 AI / MACHINE LEARNING
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+</p>
 
-[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
-                                                                                                                                                                       
+### ⚛️ QUANTUM & SECURITY
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="50"/>
+</p>
 
-<br>
+### 🌐 WEB DEVELOPMENT
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+</p>
 
-<hr>
+### 📊 DATA & VISUALIZATION
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="70"/>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/lokesh-mururganandam-752261274
-[twitter]: https://twitter.com/bappy913873
-[Instagram]: https://www.instagram.com/entbappy/
-[YouTube]: https://www.youtube.com/dswithbappy
-[LeetCode]: https://leetcode.com/entbappy/
+### 🐧 SYSTEMS & TOOLS
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+</p>
 
+---
 
+## 📈 GITHUB STATS
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
 
+---
 
+## 🚀 FEATURED INTERESTS
+
+- 🔐 Cybersecurity & Ethical AI  
+- ⚛️ Quantum Computing & Post-Quantum Cryptography  
+- 🤖 Intelligent Agents & Autonomous Systems  
+- 📊 Data Analytics & Visualization  
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<p align="center">
+  <a href="mailto:loki89414@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="www.linkedin.com/in/lokesh-mururganandam-752261274">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="50"/>
+  </a>
+</p>
+
+---
+
+## ⚡ FINAL NOTE
+
+<div align="center">
+
+✨ *Code. Learn. Build. Repeat.*  
+🔥 *Consistency beats talent when talent doesn't work hard.*
+
+⭐ Thanks for visiting — let's build something legendary.
+
+</div>
